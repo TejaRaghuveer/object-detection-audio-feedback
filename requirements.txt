@@ -1,0 +1,4 @@
+ultralytics
+gTTS
+matplotlib
+pillow
